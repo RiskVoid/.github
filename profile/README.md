@@ -12,7 +12,7 @@ RiskVoid is an AI and application security company. We pentest and review AI age
 
 ## What we do
 
-| | |
+| Service | What it covers |
 |---|---|
 | **Pentesting** | Hands on testing of web apps, APIs and AI features, with reproducible evidence and a report your engineers and auditors can both use |
 | **AI agent and LLM security** | Prompt injection, tool abuse, data leakage, excessive agency and unsafe output handling, tested against your real agents and models |
